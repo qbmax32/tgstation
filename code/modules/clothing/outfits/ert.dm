@@ -489,7 +489,7 @@
 	additional_radio = /obj/item/encryptionkey/heads/captain
 
 /datum/outfit/centcom/ert/marine/security
-	name = "Marine Heavy"
+	name = "Marine Trooper"
 
 	id = /obj/item/card/id/advanced/centcom/ert/security
 	suit = /obj/item/clothing/suit/armor/vest/marine/security
