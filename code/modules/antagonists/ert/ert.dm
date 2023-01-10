@@ -259,7 +259,7 @@
 	role = "Commander"
 
 /datum/antagonist/ert/marine/security
-	name = "Marine Heavy"
+	name = "Marine Trooper"
 	outfit = /datum/outfit/centcom/ert/marine/security
 	role = "Trooper"
 
